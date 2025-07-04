@@ -1,7 +1,7 @@
 # Core dependencies
 streamlit==1.42.2
-numpy==1.26.0
-Pillow==10.1.0
+numpy==1.26.2
+Pillow==10.2.0
 opencv-python-headless==4.8.0.76
 fpdf==1.7.2
 
@@ -19,3 +19,4 @@ pandas==2.1.1
 # Streamlit plugins
 streamlit-option-menu==0.3.6
 streamlit-lottie==0.0.5
+
