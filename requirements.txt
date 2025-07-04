@@ -20,3 +20,7 @@ pandas
 streamlit-option-menu
 streamlit-lottie
 
+streamlit==1.32.2
+opencv-python-headless==4.8.1.78
+numpy==1.24.4
+pillow==10.1.0
